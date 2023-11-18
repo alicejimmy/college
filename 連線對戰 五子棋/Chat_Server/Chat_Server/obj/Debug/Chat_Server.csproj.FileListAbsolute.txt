@@ -1,0 +1,29 @@
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.exe
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.pdb
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.exe
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.pdb
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csprojResolveAssemblyReference.cache
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.GenerateResource.Cache
+D:\大學\大二下電腦網路實習\CS2012\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.exe.config
+D:\大學\大二下電腦網路實習\CS2012\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.exe
+D:\大學\大二下電腦網路實習\CS2012\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.pdb
+D:\大學\大二下電腦網路實習\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csprojAssemblyReference.cache
+D:\大學\大二下電腦網路實習\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.Form1.resources
+D:\大學\大二下電腦網路實習\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.Properties.Resources.resources
+D:\大學\大二下電腦網路實習\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.GenerateResource.cache
+D:\大學\大二下電腦網路實習\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.CoreCompileInputs.cache
+D:\大學\大二下電腦網路實習\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.exe
+D:\大學\大二下電腦網路實習\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.pdb
+C:\Users\NTPU\Downloads\Chat_Server\Chat_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\NTPU\Downloads\Chat_Server\Chat_Server\bin\Debug\TCP_Server.exe
+C:\Users\NTPU\Downloads\Chat_Server\Chat_Server\bin\Debug\TCP_Server.pdb
+C:\Users\NTPU\Downloads\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csprojAssemblyReference.cache
+C:\Users\NTPU\Downloads\Chat_Server\Chat_Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\NTPU\Downloads\Chat_Server\Chat_Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\NTPU\Downloads\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.GenerateResource.cache
+C:\Users\NTPU\Downloads\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.CoreCompileInputs.cache
+C:\Users\NTPU\Downloads\Chat_Server\Chat_Server\obj\Debug\TCP_Server.exe
+C:\Users\NTPU\Downloads\Chat_Server\Chat_Server\obj\Debug\TCP_Server.pdb
