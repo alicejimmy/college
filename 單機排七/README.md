@@ -3,4 +3,4 @@
 
 ![image](https://github.com/alicejimmy/college-portfolio/blob/main/%E5%96%AE%E6%A9%9F%E6%8E%92%E4%B8%83/%E6%8E%92%E4%B8%831.png?raw=true)
 
-![image](https://github.com/alicejimmy/college/assets/71706978/1c01884f-1ec7-41fa-8556-901005497589)
+![image](https://github.com/alicejimmy/college-portfolio/blob/main/%E5%96%AE%E6%A9%9F%E6%8E%92%E4%B8%83/%E6%8E%92%E4%B8%832.png?raw=true)
