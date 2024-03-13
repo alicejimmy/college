@@ -1,6 +1,6 @@
 # 箱子番
 * 此作品為修習物件導向程式設計所製作，運用到了程式設計的邏輯基礎，使用C++語言開發，製作出可以實際遊玩推箱子的小遊戲。
+* 直接執行推箱子.exe就可運作
 
-![image](https://github.com/alicejimmy/college-portfolio/assets/71706978/59756453-61e0-4801-a402-59fef9d1eaf6)
-
-![image](https://github.com/alicejimmy/college-portfolio/assets/71706978/e89d6649-1694-4f8d-8cef-7848a794c4dd)
+![image](https://github.com/alicejimmy/college-portfolio/blob/main/%E7%AE%B1%E5%AD%90%E7%95%AA/%E7%AE%B1%E5%AD%90%E7%95%AA1.png?raw=true)
+![image](https://github.com/alicejimmy/college-portfolio/blob/main/%E7%AE%B1%E5%AD%90%E7%95%AA/%E7%AE%B1%E5%AD%90%E7%95%AA2.png?raw=true)
