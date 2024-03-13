@@ -3,6 +3,5 @@
 * 直接執行game\410785028 資工二 黃怡庭.exe就可運作
 
 ![image](https://github.com/alicejimmy/college-portfolio/assets/71706978/d922c027-b894-4afb-992f-d6d066414cbb)
-![image](https://github.com/alicejimmy/college-portfolio/assets/71706978/9188f2c2-9af9-498d-a443-18c35ae33ce8)
 ![image](https://github.com/alicejimmy/college-portfolio/blob/main/UNITY%20%E9%81%8A%E6%88%B2%E9%80%A0%E6%99%AF/UNITY%E9%81%8A%E6%88%B2%E9%80%A0%E6%99%AF1.png?raw=true)
 ![image](https://github.com/alicejimmy/college-portfolio/blob/main/UNITY%20%E9%81%8A%E6%88%B2%E9%80%A0%E6%99%AF/UNITY%E9%81%8A%E6%88%B2%E9%80%A0%E6%99%AF2.png?raw=true)
